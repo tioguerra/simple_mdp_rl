@@ -1,0 +1,2 @@
+# Este projeto não possui dependências externas.
+# Todos os módulos utilizados (random, time, json) fazem parte da biblioteca padrão do Python.
